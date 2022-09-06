@@ -1,0 +1,34 @@
+public/frontend/scroll_slider/css files
+routes/web.php
+frontend/layout/app.blade.php
+frontend/index.blade
+views/frontend/partials/best_selling_section.blade
+views/frontend/partials/load_scroll_slider.blade
+homeController.php
+views/frontend/product_listing.blade
+views/frontend/product_details.blade
+views/frontend/inc/nav.blade
+
+
+6
+PurchaseHistoryController.php
+DelhiveryAPIController.php
+orderController.php
+views/frontend/purchase_history.blade.php
+views/frontend/seller/orders.blade.php
+views/orders/index.blade.php
+
+23/2021
+PurachaseHistoryController
+views/frontend/purchase_history.blade.php
+frontend/layout/app.blade.php
+routes/web.php	
+
+Frontend Technologies
+Html,Javascript,jQuery,Bootstrap
+Basic Knowledge Of - AngularJS , ReactJS.
+
+Backend Technologies
+Php,MySQL,PostgreSQL.
+MVC Frameworks - Laravel,CakePHP,CodeIgniter.
+Servers - Apache Web Server,Microsoft Azure.

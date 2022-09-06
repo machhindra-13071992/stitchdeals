@@ -1,0 +1,1 @@
+<?phpnamespace App\Http\Controllers\Api;use App\Http\Resources\SizeCollection;use App\Models\Size;class SizeController extends Controller{    public function index()    {        return new SizeCollection(Size::all());    }}
